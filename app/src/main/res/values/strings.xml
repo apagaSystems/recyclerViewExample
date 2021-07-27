@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+
+    <string-array name="car_array">
+        <item>BMW</item>
+        <item>Mercedes</item>
+        <item>Audi</item>
+        <item>Opel</item>
+        <item>Skoda</item>
+        <item>Peogue</item>
+        <item>Toyota</item>
+        <item>Mazda</item>
+        <item>Nissan</item>
+        <item>Hunday</item>
+        <item>KIA</item>
+        <item>Ford</item>
+        <item>Fiat</item>
+        <item>Lada</item>
+        <item>Porche</item>
+        <item>Lamborgini</item>
+        <item>GeneralMotors</item>
+    </string-array>
+</resources>
